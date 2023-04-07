@@ -1,0 +1,16 @@
+#list-items2 {
+  font-family: 'Lobster';
+}
+.btn {
+  background-color: transparent;
+  border: 2px #0284c7 solid;
+  cursor: pointer;
+  outline: none;
+  color: #0284c7;
+  border-radius: 10px;
+  padding: 3px;
+}
+button {
+  background-color: transparent;
+  border: none;
+}

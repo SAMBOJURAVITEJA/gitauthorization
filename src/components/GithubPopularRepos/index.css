@@ -1,0 +1,38 @@
+.bg-container {
+  height: 100vh;
+  font-family: 'Roboto';
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+}
+.imageFailure {
+  height: 300px;
+  width: 300px;
+}
+.h1 {
+  color: #1e293b;
+  font-weight: bold;
+}
+.list-item {
+  width: 100%;
+  display: flex;
+}
+.item1 {
+  justify-content: space-between;
+}
+.item2 {
+  flex-wrap: wrap;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 50%;
+}
+ul {
+  padding-left: 0px;
+  list-style-type: none;
+}
